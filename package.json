@@ -1,6 +1,6 @@
 {
   "name": "portfolio-project",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "NPM package to automatically update your projects in your portfolio website.",
   "main": "index.js",
   "scripts": {
