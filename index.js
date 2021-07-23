@@ -12,7 +12,7 @@ const getRepositories = (user) => {
 
     request.onload = () => {
       if (request.status === 200) {
-        response = JSON.parse(request.responseText);
+        const response = JSON.parse(request.responseText);
         const repos = [];
         for (let i = 0; i < response.length; i++) {
           for (let j = 0; j < response[i].topics.length; j++) {
