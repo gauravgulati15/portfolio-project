@@ -34,7 +34,7 @@ getRepositories("<Your-GitHub-Username>");
   .catch(...);
 ```
 
-### _getRepositaries()_ will return a Promise.
+### _getRepositories()_ will return a Promise.
 
 ### If that Promise is Resolved then it sends a JSON object containing the selected projects. For example :-
 
