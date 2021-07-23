@@ -4,13 +4,13 @@
 
 ### **Yesss** . . . you read that right. 😉
 
-## _**portfolio-project**_ is a _**npm**_ package to automatically update your projects section in your portfolio website. It will fetch the selected repositories directly from your GitHub account.
+## **_portfolio-project_** is a **_npm_** package to automatically update your projects section in your portfolio website. It will fetch the selected repositories directly from your GitHub account.
 
 <hr>
 
 ### How to use it❓
 
-### Add **_"portfolio-project_"** as a topic in the respository which you want to add in your portfolio. For example :-
+### Add **_"portfolio-project"_** as a topic in the respository which you want to add in your portfolio. For example :-
 
 <p align="center">
   <img src="readmeIMG/npmRepo.png" title="portfolio-project">
@@ -131,7 +131,5 @@ For example :-
 </p>
 
 ## Try it in your Portfolios!
-
-<br>
 
 ## **_If you like it give it a 🌟 and share it with your friends!💻_**
